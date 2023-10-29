@@ -6,7 +6,8 @@ dataset: 存放数据集的文件夹，打开dataset目录下的Readme文件可�
 
 ## main
 
-main: 存放主要运行.py文件，outputs目录存放各模型的最好的权重参数文件， main目录下存放log文件为论文实验日志文件（运行代码生成的log）， main.py包含本实验中大部分模型的代码，main_cwt.py存放的是经过CWT变换的代码以及模型实验(仅仅CNN)， main_bls.py存放的是宽度学习网络的代码，main_ml.py存放的是机器学习方法在该数据集上的实验代码。
+main: 存放主要运行.py文件，outputs目录存放各模型的最好的权重参数文件（链接：https://pan.baidu.com/s/1eR35qgBd9HHRlhPBrLZ_pw 
+提取码：ontl）， main目录下存放log文件为论文实验日志文件（运行代码生成的log）， main.py包含本实验中大部分模型的代码，main_cwt.py存放的是经过CWT变换的代码以及模型实验(仅仅CNN)， main_bls.py存放的是宽度学习网络的代码，main_ml.py存放的是机器学习方法在该数据集上的实验代码。
 
 
 
